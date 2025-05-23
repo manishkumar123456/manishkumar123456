@@ -36,3 +36,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishkumar123456&show_icons=true&locale=en" alt="manishkumar123456" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishkumar123456&" alt="manishkumar123456" /></p>
+
+<div align="center">
+
+<h1 align="center">Profile Viewers</h1>
+<img width="12" />
+  <img src="https://profile-counter.glitch.me/Manishkumar/count.svg?"  />
+</div>
